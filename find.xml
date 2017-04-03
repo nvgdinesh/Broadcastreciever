@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory 'F:\BharatMatrimonyNew5.1_retro\app\src'" />
-    <option name="defaultScopeName" value="Directory 'F:\BharatMatrimonyNew5.1_retro\app\src'" />
+    <option name="customScope" value="Project 'BM5.4'" />
+    <option name="defaultScopeName" value="Project 'BM5.4'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'F:\BharatMatrimonyNew5.1_retro\app\src'" />
+    <option name="SEARCH_SCOPE" value="Project 'BM5.4'" />
   </component>
 </application>
